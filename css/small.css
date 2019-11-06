@@ -1,0 +1,18 @@
+/*
+Project Name: Column Layout
+Author: FCP
+*/
+
+#container{	
+	width: 650px;	
+}
+
+#container-video{	
+	width: 650px;				
+}
+
+
+.alignright{
+	float: left;
+	margin: 0 15px 15px 0;
+}
