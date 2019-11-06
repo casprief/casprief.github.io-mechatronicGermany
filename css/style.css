@@ -1,0 +1,92 @@
+/* 
+
+Project Name: Cookie Monster 
+Client: Mechatronics
+Author: Felipe Castaneda
+Developed @ One Month 
+
+*/
+
+body {
+	background: url('../images/Background.jpg');
+	/* the follow is the code to have the image display as a full page */
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#container{
+	background: rgb(179, 168, 25);
+	width: 600px;
+	color: white;
+	padding: 15px;
+	border-radius: 5px;
+	text-align: justify;
+}
+
+#container-graphs{
+	background: rgb(179, 168, 25);
+	width: 600px;
+	color: white;
+	padding: 30px;
+	border-radius: 5px;	
+}
+
+.alignleft {
+	float: left;
+	margin: 0 15px 15px 0;
+}
+
+.alignright{
+	float: right;
+	margin: 100px 100px 15px 0;
+}
+
+#container-video{
+	background: rgb(179, 168, 25);
+	width: 600px;
+	color: white;
+	padding: 15px;
+	border-radius: 5px;		
+}
+
+h1 {
+	font-size: 80px;
+	color: rgb(235, 8, 8);
+	font-family: 'Courgette', cursive;
+}
+
+h2{	
+	background: #659eaf;
+	color: black;
+	border-radius: 5px;
+	font-family: 'Permanent Marker', cursive;	
+	text-align: center;
+}
+
+a {
+	color: #4337ee;
+	text-decoration: none;
+}
+
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -4em;
+	}
+	
+.footer, .push {
+	height: 4em;
+	color: white;
+	}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}

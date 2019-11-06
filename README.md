@@ -3,6 +3,7 @@
 This website presents an overview of the salaries for mechatronic engineers in germany according to 
 Bundesland.
 
-Source: [Gehalts Vergleich](https://www.gehaltsvergleich.com/gehalt/Mechatroniker-Mechatronikerin)
+Data found in: [Gehalts Vergleich](https://www.gehaltsvergleich.com/gehalt/Mechatroniker-Mechatronikerin)
+Year 2019
 
 Created by: FCP
